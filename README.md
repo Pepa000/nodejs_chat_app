@@ -1,10 +1,23 @@
-# nodejs_chat_app
-nodejs chat app
-$ npm install express
-$ npm install socket.io
-$ npm install -g nodemon
-$ npm run dev
+# nodejs chat app
 
-localhost:3000
 
+## Overview
+
+## Requirement
+-ubuntu20.04 lts
+-express
+-socket.io
+-nodemon
+
+## Usage
+npm run dev
+
+## Features
+
+## Reference
+
+## Author
+
+
+## Licence
 
